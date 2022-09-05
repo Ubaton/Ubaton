@@ -48,7 +48,7 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/Ubaton/github-readme-stats"><img alt="Themba Ngobeni Github Stats" src="https://github-readme-stats.vercel.app/api?username=ubaton0&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Ubaton/github-readme-stats"><img alt="Ubaton Github Stats" src="https://github-readme-stats.vercel.app/api?username=ubaton0&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Ubaton/github-readme-stats"><img alt="Raymond Ngobeni Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ubaton&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -65,14 +65,14 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/themba-ngobeni-6a163b164/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://codepen.io/thembatman0"><img src="https://img.icons8.com/ios-filled/48/codepen.png"/></a>
+<a href = "https://www.linkedin.com/in/raymond-ngobeni-b7ab26163/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+
 
 
 </p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=ThembaTman0">
+    <img src="https://komarev.com/ghpvc/?username=Ubaton">
 </a>
 <a href="https://github.com/Ubaton?tab=followers"><img src="https://img.shields.io/github/followers/ThembaTman0?label=Followers&style=social" alt="GitHub Badge"></a> 
