@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi, I'm Themba</h1>
-<h3 align="center">I'm a Computer Science student from South Africa, Gauteng.</h3>
+<h1 align="center">Hi, I'm Raymond</h1>
+<h3 align="center">I'm a Self-taught Computer Science student from South Africa, Gauteng.</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -10,11 +10,9 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 Take a look at my projects at **[My Portfolio](https://thembangobeni.netlify.app/)**
+- 📫 How to reach me **mrrngobeni6@gmail.com**
 
-- 📫 How to reach me **thembatman0@gmail.com**
-
-- ⚡ Fun fact **I play games and creating 3D art.**
+- ⚡ Fun fact **I'm a Graphic Designer.**
 
 ## 🚀 Languages and Tools:
 
