@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="<a href="https://www.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_11602236.htm#query=cartoon%20programmer%20png&position=6&from_view=search&track=ais">Image by catalyststuff</a> on Freepik" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="<a href="21004063.jpg" height="175px"/></a>
 
 <h1 align="center">Hi, I'm Raymond</h1>
 <h3 align="center">I'm a Self-taught Computer Science student from South Africa, Gauteng.</h3>
