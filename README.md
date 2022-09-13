@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://img.freepik.com/free-vector/programmers-using-javascript-programming-language-computer-tiny-people-javascript-language-javascript-engine-js-web-development-concept-bright-vibrant-violet-isolated-illustration_335657-986.jpg?w=740&t=st=1663111535~exp=1663112135~hmac=b3a9e012cf04cccb96b3cd7e9d5bac29407dd9c6be9a3f8dc268abb85322c00b" height="175px"/></a>
 
 <h1 align="center">Hi, I'm Raymond</h1>
 <h3 align="center">I'm a Self-taught Computer Science student from South Africa, Gauteng.</h3>
