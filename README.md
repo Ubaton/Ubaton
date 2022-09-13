@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="<a href="/" height="175px"/></a>
+<!-- <a href="#"><img width="100%" height="auto" src="<a href="/" height="175px"/></a> -->
 
 <h1 align="center">Hi, I'm Raymond</h1>
 <h3 align="center">I'm a Self-taught Computer Science student from South Africa, Gauteng.</h3>
