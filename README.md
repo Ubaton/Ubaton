@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="<a href="[https://i.pinimg.com/736x/2e/f4/19/2ef419dd92eaa5f61b4ec3de4801929f.jpg](https://static.vecteezy.com/system/resources/previews/004/865/921/non_2x/programmer-people-concept-use-laptop-and-programming-code-program-icon-spreading-with-modern-flat-style-free-vector.jpg)" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi, I'm Raymond</h1>
 <h3 align="center">I'm a Self-taught Computer Science student from South Africa, Gauteng.</h3>
