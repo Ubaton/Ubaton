@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="<a href="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=740&t=st=1663140875~exp=1663141475~hmac=0a6755d2d9f6e600c4cb49df3f6eebee78e76a10543cf3b4e6f8db05668191f7" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="<a href="" height="175px"/></a>
 
 <h1 align="center">Hi, I'm Raymond</h1>
 <h3 align="center">I'm a Self-taught Computer Science student from South Africa, Gauteng.</h3>
