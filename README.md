@@ -74,7 +74,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/Ubaton/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Ubaton">
 </a>
 <a href="https://github.com/Ubaton?tab=followers"><img src="https://img.shields.io/github/followers/Ubaton?label=Followers&style=social" alt="GitHub Badge"></a> 
