@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+![Alt text](http://full/path/to/img.jpg "Optional title")
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Philosopher&pause=1000&color=FFFF00&width=435&lines=I'm+a+full+stack+web+developer.;Backend+intergration.;Best+UI%2FUX+designer+and+prototype.)](https://git.io/typing-svg)
 <h3 align="center">I'm a Self-taught Computer Science student from South Africa, Gauteng.</h3>
