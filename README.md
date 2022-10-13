@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="<a href="https://www.flaticon.com/free-icons/developer" title="developer icons">Developer icons created by Freepik - Flaticon</a>"/></a>
+<a href="#"><img width="100%" height="auto" src="<a href=""/></a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Philosopher&pause=1000&color=FFFF00&width=435&lines=I'm+a+full+stack+web+developer.;Backend+intergration.;Best+UI%2FUX+designer+and+prototype.)](https://git.io/typing-svg)
 <h3 align="center">I'm a Self-taught Computer Science student from South Africa, Gauteng.</h3>
