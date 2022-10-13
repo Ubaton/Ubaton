@@ -66,7 +66,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/raymond-ngobeni-b7ab26163/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/_GoldManRay"><img src="https://img.icons8.com/fluency/344/twitter-circled.png"/></a>
+<a href = "https://twitter.com/_GoldManRay"><img src="https://img.icons8.com/fluency/48/twitter-circled.png"/></a>
 
 
 </p>
@@ -75,4 +75,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=ThembaTman0">
 </a>
-<a href="https://github.com/Ubaton?tab=followers"><img src="https://img.shields.io/github/followers/ThembaTman0?label=Followers&style=social" alt="GitHub Badge"></a> 
+<a href="https://github.com/Ubaton?tab=followers"><img src="https://img.shields.io/github/followers/Ubaton?label=Followers&style=social" alt="GitHub Badge"></a> 
