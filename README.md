@@ -65,8 +65,8 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/themba-ngobeni-6a163b164/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://codepen.io/thembatman0"><img src="https://img.icons8.com/ios-filled/48/codepen.png"/></a>
+<a href = "https://www.linkedin.com/in/raymond-ngobeni-b7ab26163/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/_GoldManRay"><img src="https://img.icons8.com/fluency/344/twitter-circled.png"/></a>
 
 
 </p>
