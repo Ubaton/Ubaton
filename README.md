@@ -73,6 +73,10 @@
 <a href = "https://twitter.com/_GoldManRay"><img src="https://img.icons8.com/fluency/48/twitter-circled.png"/></a>
 
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ubaton&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
 </p>
 
 ## ❤ Views and Followers
