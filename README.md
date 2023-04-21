@@ -32,16 +32,15 @@
   
 </p>
 
+<p align="center">
+    <a href="https://github.com/Ubaton/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Raymond Ngobeni streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ubaton&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
 <div align="center">
   ## 📊 My Github Stats
-  
-  ## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/Ubaton/github-readme-stats"><img alt="Raymond Ngobeni Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ubaton&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Ubaton/github-readme-stats"><img alt="Raymond Ngobeni Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ubaton&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-
+ 
   <br/>
   <a href="https://github.com/Ubaton/github-readme-stats"><img alt="Raymond Ngobeni Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ubaton&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Ubaton/github-readme-stats"><img alt="Raymond Ngobeni Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ubaton&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
