@@ -35,6 +35,17 @@
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> -->
 </p>
+<p align="center">
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java"/>
+    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" title="React"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript"/>
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" title="HTML"/>
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS"/>
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/>
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js"/>
+    <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" alt="MySQL" title="MySQL"/>
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git"/>
+</p>
 
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
