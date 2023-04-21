@@ -46,12 +46,7 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
-  <br/>
-<div align="center">
-  <a href="https://github.com/Ubaton/github-readme-activity-graph"><img alt="Raymond Ngobeni Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ubaton&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-</div>
-
-  <br/>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ubaton&bg_color=000000&color=ffffff&line=11ff00&point=787878&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 <div align="center">
