@@ -1,7 +1,7 @@
 <div align="center">
   <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
   <h1>I'm a Full-Stack Web Developer</h1>
-  <p>Self-taught Computer Science student from Gauteng, South Africa</p>
+  <p>Self-taught Computer Science from Gauteng, South Africa</p>
 </div>
 
 ## About Me
@@ -25,6 +25,7 @@
     <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git"/>
 </p>
 
-<div align="center">
+<div style="text-align: center;">
   <img src="https://readme-typing-svg.demolab.com?font=Philosopher&pause=1000&color=FFFF00&width=435&lines=Backend+Integration.;Best+UI%2FUX+Designer+and+Prototype.">
 </div>
+
