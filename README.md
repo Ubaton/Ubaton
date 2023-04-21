@@ -46,11 +46,11 @@
  
 
 
-<div style="border-radius: 10px; width: 450px; overflow: hidden;">
-  <a href="https://github.com/Ubaton/github-readme-activity-graph">
-    <img alt="Raymond Ngobeni Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Ubaton&bg_color=000000&color=ffffff&line=11ff00&point=787878&area=true&hide_border=true" />
-  </a>
-</div>
+<br/>
+
+<a href="https://github.com/Ubaton/github-readme-activity-graph"><img alt="Raymond Ngobeni Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ubaton&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
 
 <div align="center">
 
