@@ -34,6 +34,13 @@
 
 <div align="center">
   ## 📊 My Github Stats
+  
+  ## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/Ubaton/github-readme-stats"><img alt="Raymond Ngobeni Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ubaton&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Ubaton/github-readme-stats"><img alt="Raymond Ngobeni Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ubaton&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
 
   <br/>
   <a href="https://github.com/Ubaton/github-readme-stats"><img alt="Raymond Ngobeni Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ubaton&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
