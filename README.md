@@ -6,6 +6,10 @@
 
 ## About Me
 
+<div style="text-align: center;">
+  <img src="https://readme-typing-svg.demolab.com?font=Philosopher&pause=1000&color=FFFF00&width=435&lines=Backend+Integration.;Best+UI%2FUX+Designer+and+Prototype.">
+</div>
+
 - 🌱 I'm currently learning **Mathematical Foundations of Data Science**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 📫 How to reach me: **mrrngobeni6@gmail.com**
@@ -23,9 +27,7 @@
     <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js"/>
     <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" alt="MySQL" title="MySQL"/>
     <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git"/>
-  <div style="text-align: center;">
-  <img src="https://readme-typing-svg.demolab.com?font=Philosopher&pause=1000&color=FFFF00&width=435&lines=Backend+Integration.;Best+UI%2FUX+Designer+and+Prototype.">
-</div>
+  
 </p>
 
 
