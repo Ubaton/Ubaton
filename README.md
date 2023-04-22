@@ -41,7 +41,14 @@
   <a href="https://github.com/Ubaton/github-readme-stats"><img alt="Raymond Ngobeni Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ubaton&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Ubaton/github-readme-stats"><img alt="Raymond Ngobeni Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ubaton&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
- 
+
+  <br/>
+<br/>
+
+<a href="https://github.com/ThembaTman0/github-readme-activity-graph"><img alt="Themba Ngobeni Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ThembaTman0&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
 
 <div align="center">
 
