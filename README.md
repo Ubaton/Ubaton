@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
+  <img width="100%" height="auto" src="[https://i.imgur.com/iXuL1HG.png](https://github.com/Ubaton/Ubaton/blob/main/Code.png)" height="175px"/>
   <h1>I'm a Full-Stack Web Developer</h1>
   <p>Self-taught Computer Science student from Gauteng, South Africa</p>
 </div>
