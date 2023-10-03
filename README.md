@@ -34,8 +34,6 @@
     </a>
 </p>
 
-<img src="https://camo.githubusercontent.com/30084307c982bc8ecbe7c7de50ef24c2eafc0b11eaec382a385da630a8396d19/68747470733a2f2f6769746875622d726561646d652d73746174732d676f646b696e676a61792e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d676f646b696e676a6179267468656d653d7261646963616c266c616e67735f636f756e743d313026636172645f77696474683d353430266c61796f75743d636f6d70616374" alt="Most used languages" data-canonical-src="https://github-readme-stats-Ubaton.vercel.app/api/top-langs/?username=Ubaton&amp;theme=radical&amp;langs_count=10&amp;card_width=540&amp;layout=compact" style="max-width: 100%;">
-
 <div align="center">
 
 ## 🌐 Socials:
