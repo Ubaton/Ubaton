@@ -26,19 +26,18 @@
 
   
 
-<p align="center">
-    <a href="https://github.com/Ubaton/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Raymond Ngobeni streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ubaton&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+
 
   
  
 </p>
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ubaton&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Ubaton's Top Languages" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Ubaton&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Ubaton's Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Ubaton&theme=gotham&show_icons=true&hide_border=true&count_private=true" alt="Ubaton's Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ubaton&theme=gotham&hide_border=true" alt="Ubaton's Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ubaton&theme=gotham&show_icons=true&hide_border=true&layout=compact" alt="Ubaton's Top Languages" />
 </div>
+
 
 
 <div align="center">
