@@ -46,3 +46,5 @@
 <a href="https://github.com/Ubaton?tab=followers"><img src="https://img.shields.io/github/followers/Ubaton?label=Followers&style=social" alt="GitHub Badge"></a> 
 
 </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Ubaton=anuraghazra&layout=compact)
