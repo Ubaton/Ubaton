@@ -31,11 +31,15 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Raymond Ngobeni streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ubaton&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 
-  ![Ubaton's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ubaton&theme=dark&show_icons=true&hide_border=true&layout=compact)
+  
  
 </p>
 
-![Ubaton's Stats](https://github-readme-stats.vercel.app/api?username=Ubaton&theme=dark&show_icons=true&hide_border=true&count_private=true)
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ubaton&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Ubaton's Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Ubaton&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Ubaton's Stats" />
+</div>
+
 
 <div align="center">
 
