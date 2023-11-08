@@ -41,6 +41,8 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ubaton&theme=gotham&show_icons=true&hide_border=true&layout=compact" alt="Ubaton's Top Languages" />
  </div>
 
+ <img src="https://wakatime.com/share/@018baf92-6fdc-4860-bcdb-4a20b6f5825b/6c49ae35-4935-4686-beb7-f5c20783f64c.svg />
+
 
 
 <div align="center">
