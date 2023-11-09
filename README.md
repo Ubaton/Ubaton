@@ -40,8 +40,10 @@
 <div style="display: flex; justify-content: center; align-items: center;">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ubaton&theme=gotham&show_icons=true&hide_border=true&layout=compact" alt="Ubaton's Top Languages" />
  </div>
-
- <figure><embed src="https://wakatime.com/share/@018baf92-6fdc-4860-bcdb-4a20b6f5825b/6c49ae35-4935-4686-beb7-f5c20783f64c.svg"></embed></figure>
+ 
+<div style="display: flex; justify-content: center; align-items: center;">
+ <img width="50%" height="auto" src="https://wakatime.com/share/@018baf92-6fdc-4860-bcdb-4a20b6f5825b/9846d77c-2d35-4eba-9fd9-ed9aab965699.svg"/>
+</div>
 
 
 
