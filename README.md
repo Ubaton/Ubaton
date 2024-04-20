@@ -1,6 +1,6 @@
 <div align="center">
   <img width="25%" height="auto" src="https://github.com/Ubaton/Ubaton/blob/main/Code.png" height="175px"/>
-  <h1>I'm a Full-Stack Web Developer</h1>
+  <h1>I'm a Full-Stack Software Developer</h1>
   <p>Self-taught Computer Science student from Gauteng, South Africa</p>
 </div>
 
