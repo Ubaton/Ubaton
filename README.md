@@ -58,8 +58,7 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Ubaton">
 </a>
-<a href="https://github.com/Ubaton?tab=followers"><img src="https://img.shields.io/github/followers/Ubaton?label=Followers&style=social" alt="GitHub Badge"></a> 
-<figure><embed src="https://wakatime.com/share/@Ubaton/db4e5cba-5e60-4107-a2f9-5050894a9546.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@Ubaton/98cbf50e-7a10-4277-a63f-44991d3b0785.svg"></embed></figure>
 </div>
 
 
