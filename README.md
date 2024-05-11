@@ -59,8 +59,7 @@
     <img src="https://komarev.com/ghpvc/?username=Ubaton">
 </a>
 <a href="https://github.com/Ubaton?tab=followers"><img src="https://img.shields.io/github/followers/Ubaton?label=Followers&style=social" alt="GitHub Badge"></a> 
-<a href="https://wakatime.com/@018baf92-6fdc-4860-bcdb-4a20b6f5825b"><img src="https://wakatime.com/badge/user/018baf92-6fdc-4860-bcdb-4a20b6f5825b.svg" alt="Total time coded since Nov 8 2023" /></a>
-
+<figure><embed src="https://wakatime.com/share/@Ubaton/db4e5cba-5e60-4107-a2f9-5050894a9546.svg"></embed></figure>
 </div>
 
 
