@@ -4,7 +4,8 @@
   <p>Self-taught Full Stack Software Developer from Gauteng, South Africa</p>
 </div>
 
-## About Me
+<div align="center">
+  ## About Me
 
 <div style="text-align: center;">
   <img src="https://readme-typing-svg.demolab.com?font=Philosopher&pause=1000&color=FFFF00&width=435&lines=Backend+Integration.;Best+UI%2FUX+Designer+and+Prototype.">
@@ -61,4 +62,5 @@
 <figure><embed src="https://wakatime.com/share/@Ubaton/98cbf50e-7a10-4277-a63f-44991d3b0785.svg"></embed></figure>
 </div>
 
+</div>
 
