@@ -1,15 +1,15 @@
 <div align="center">
   <img width="25%" height="auto" src="https://github.com/Ubaton/Ubaton/blob/main/Code.png" height="175px"/>
-  <h1>I'm a Full-Stack Software Developer</h1>
-  <p>Self-taught Full Stack Software Developer from Gauteng, South Africa</p>
+  <h1>I'm a Full-Stack Software Engineer</h1>
+  <p>Self-taught Full Stack Software Engineer from Gauteng, South Africa</p>
 </div>
 
 <div align="center">
   
   ## About Me
 
-<div style="text-align: center;">
-  <img src="https://readme-typing-svg.demolab.com?font=Philosopher&pause=1000&color=FFFF00&width=435&lines=Backend+Integration.;Best+UI%2FUX+Designer+and+Prototype.">
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=25&pause=1000&color=158CF7&width=435&lines=Full+Stack+Software+Engineer;Backend+Design+Architecture;API+Configuration;Frontend+Design+Architecture" alt="Typing SVG" /></a>
 </div>
 
 - 🌱 I'm currently learning **Mathematical Foundations of Data Science**
