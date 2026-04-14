@@ -14,7 +14,6 @@
 
 - 🌱 I'm currently learning **Mathematical Foundations of Data Science**
 - 👯 I'm looking to collaborate on **Open Source Projects**
-- 📫 How to reach me: **mrrngobeni6@gmail.com**
 - ⚡ Fun fact: **I'm also a Graphic Designer**
 
 ## 🛠️ Technologies & Tools
