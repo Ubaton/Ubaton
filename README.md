@@ -57,18 +57,18 @@
  
 </p>
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<!-- <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=Ubaton&theme=gotham&show_icons=true&hide_border=true&count_private=true" alt="Ubaton's Stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ubaton&theme=gotham&hide_border=true" alt="Ubaton's Streak" />
-</div>
+</div> 
 
 <!-- <div style="display: flex; justify-content: center; align-items: center;">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ubaton&theme=gotham&show_icons=true&hide_border=true&layout=compact" alt="Ubaton's Top Languages" />
  </div> -->
  
-<div style="display: flex; justify-content: center; align-items: center;">
+<!-- <div style="display: flex; justify-content: center; align-items: center;">
  <img width="50%" height="auto" src="https://wakatime.com/share/@018baf92-6fdc-4860-bcdb-4a20b6f5825b/9846d77c-2d35-4eba-9fd9-ed9aab965699.svg"/>
-</div>
+</div> -->
 
 
 
